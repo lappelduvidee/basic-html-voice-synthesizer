@@ -46,7 +46,7 @@ html {
     text-align: center;
     font-size: 5rem;
     font-weight: 100;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Georgia', sarif;
     text-shadow: 3px 3px 0 #F3C010;
   }
   
@@ -73,7 +73,7 @@ html {
     border: 0;
     width: 49%;
     float: left;
-    font-family: 'Pacifico', cursive;
+    font-family: 'sanis-sarif', sans-sarif;
     margin-bottom: 0;
     font-size: 2rem;
     border-bottom: 5px solid #F3C010;
