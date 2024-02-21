@@ -11,17 +11,17 @@ html {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background-color: #3BC1AC;
+    background-color: #555a59;
     display: flex;
     min-height: 100vh;
     align-items: center;
   
     background-image:
-    radial-gradient(circle at 100% 150%, #3BC1AC 24%, #42D2BB 25%, #42D2BB 28%, #3BC1AC 29%, #3BC1AC 36%, #42D2BB 36%, #42D2BB 40%, transparent 40%, transparent),
-    radial-gradient(circle at 0    150%, #3BC1AC 24%, #42D2BB 25%, #42D2BB 28%, #3BC1AC 29%, #3BC1AC 36%, #42D2BB 36%, #42D2BB 40%, transparent 40%, transparent),
-    radial-gradient(circle at 50%  100%, #42D2BB 10%, #3BC1AC 11%, #3BC1AC 23%, #42D2BB 24%, #42D2BB 30%, #3BC1AC 31%, #3BC1AC 43%, #42D2BB 44%, #42D2BB 50%, #3BC1AC 51%, #3BC1AC 63%, #42D2BB 64%, #42D2BB 71%, transparent 71%, transparent),
-    radial-gradient(circle at 100% 50%, #42D2BB 5%, #3BC1AC 6%, #3BC1AC 15%, #42D2BB 16%, #42D2BB 20%, #3BC1AC 21%, #3BC1AC 30%, #42D2BB 31%, #42D2BB 35%, #3BC1AC 36%, #3BC1AC 45%, #42D2BB 46%, #42D2BB 49%, transparent 50%, transparent),
-    radial-gradient(circle at 0    50%, #42D2BB 5%, #3BC1AC 6%, #3BC1AC 15%, #42D2BB 16%, #42D2BB 20%, #3BC1AC 21%, #3BC1AC 30%, #42D2BB 31%, #42D2BB 35%, #3BC1AC 36%, #3BC1AC 45%, #42D2BB 46%, #42D2BB 49%, transparent 50%, transparent);
+    radial-gradient(circle at 100% 150%, #9aa3a2 24%, #929b99 25%, #6c7a78 28%, #75817f 29%, #5b6160 36%, #7c8583 36%, #565f5e 40%, transparent 40%, transparent),
+    radial-gradient(circle at 0    150%, #8e9997 24%, #6c7472 25%, #788582 28%, #838a89 29%, #676d6c 36%, rgb(110, 121, 119) 36%, #4e5352 40%, transparent 40%, transparent),
+    radial-gradient(circle at 50%  100%, #abb1b0 10%, #8f9493 11%, #7a8685 23%, #5e6866 24%, #727776 30%, #4f5554 31%, #707977 43%, #666e6d 44%, #616867 50%, #616968 51%, #3BC1AC 63%, #42D2BB 64%, #42D2BB 71%, transparent 71%, transparent),
+    radial-gradient(circle at 100% 50%, #585f5e 5%, #8d9190 6%, #596361 15%, #6c7472 16%, #666d6c 20%, #6a7574 21%, #5f6867 30%, #515756 31%, #5c6463 35%, #5f6665 36%, #3BC1AC 45%, #42D2BB 46%, #42D2BB 49%, transparent 50%, transparent),
+    radial-gradient(circle at 0    50%, #7b8381 5%, #6e7473 6%, #7c8382 15%, #9da5a4 16%, #8d9796 20%, #6d7977 21%, #626867 30%, #474d4c 31%, #616665 35%, #6d7271 36%, #3BC1AC 45%, #42D2BB 46%, #42D2BB 49%, transparent 50%, transparent);
     background-size:100px 50px;
   }
   
